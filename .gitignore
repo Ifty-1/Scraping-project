@@ -1,0 +1,4 @@
+*.json
+*.csv
+/venev
+/__pycache__
