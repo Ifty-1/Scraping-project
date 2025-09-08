@@ -11,5 +11,5 @@ pip install requests pandas
 Use `--csv` argument to pass the input CSV location
 
 ```bash
-python autotrader_scraper.py --csv "carsales check stock - Inventory_data.csv"
+python car_scraper.py --csv "csv file name"
 ```
